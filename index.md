@@ -1,26 +1,28 @@
 ---
 layout: page
-title: "Hi, I'm Lorenzo"
+title: "Hi, I'm Lorenzo!"
 permalink: /
 ---
 
 <!-- Quick hero blurb -->
 **CS @ University of Arizona (Senior)** — I build games, tools, and DS&A projects in C/C++, Python, Java, SML, and Prolog.
 
+<!--
 <p>
-  <a class="btn" href="#about">About</a>
-  <a class="btn" href="#contact">Contact</a>
-  <a class="btn btn-primary" href="/projects/">Projects</a>
+   <a class="btn" href="#about">About</a>
+   <a class="btn" href="#contact">Contact</a>
+   <a class="btn btn-primary" href="/projects/">Projects</a>
 </p>
+-->
 
 ---
 
 ## <a id="about"></a>About Me
 
-I'm Lorenzo. I enjoy game programming (C++/SFML, Python/Pygame), systems work, and data structures & algorithms.
+I'm Lorenzo Harris. I enjoy game programming (C++/SFML, Python/Pygame), systems work, and data structures & algorithms.
 
-**Skills:** C, C++, Python, Java, SML, Prolog • Git/GitHub • DS&A  
-**Interests:** Game mechanics, compilers, concurrency
+**Skills:** Java, Python, C/C++, HTML, CSS, JavaScript  
+**Interests:** Game mechanics, compilers, concurrency, web applications
 
 <!-- Optional: headshot -->
 <!-- ![Lorenzo](/assets/img/headshot.jpg) -->
@@ -29,8 +31,9 @@ I'm Lorenzo. I enjoy game programming (C++/SFML, Python/Pygame), systems work, a
 
 ## <a id="contact"></a>Contact
 
-- **Email:** your.email@example.com  
-- **GitHub:** [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- **Email:** LorenzoWashington1493@gmail.com  
+- **GitHub:** [@Lozo214](https://github.com/YOUR-USERNAME)  
+- **LinkedIn:** [Lorenzo Harris](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 
-> Want to see code, screenshots, and demos? Head to **[Projects](/projects/)**.
+> Want to see code, screenshots, and demos? CHeck out my **[Projects!](/projects/)**.
+
