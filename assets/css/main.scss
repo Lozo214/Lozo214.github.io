@@ -1,0 +1,38 @@
+@import "minima";
+
+/* Optional tiny tweaks */
+.site-title {
+    font-weight: 800;
+}
+
+.page-content {
+    max-width: 900px;
+}
+
+/* Simple buttons for links */
+a.btn {
+    display: inline-block;
+    padding: 0.5rem 0.85rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-decoration: none;
+    margin-right: 0.5rem;
+}
+
+a.btn:hover {
+    background: #f7f7f7;
+}
+
+a.btn-primary {
+    border-color: #0366d6;
+}
+
+a.btn-primary:hover {
+    background: #0366d6;
+    color: #fff;
+}
+
+/* Section spacing */
+.page-content h2 {
+    margin-top: 1.5rem;
+}
