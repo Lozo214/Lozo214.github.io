@@ -4,7 +4,7 @@ title: "Portfolio"
 ---
 
 <!-- Quick hero blurb -->
-**CS @ University of Arizona (Senior)** — I build games, tools, and DS&A projects in C/C++, Python, Java, SML, and Prolog.
+**CS @ University of Arizona (Senior)** — I build games, tools, and DS&A projects in C/C++, Python and Java.
 
 <!--
 <p>
@@ -23,8 +23,8 @@ I'm Lorenzo Harris. I enjoy game programming (C++/SFML, Python/Pygame), systems 
 **Skills:** Java, Python, C/C++, HTML, CSS, JavaScript  
 **Interests:** Game mechanics, compilers, concurrency, web applications
 
-<!-- Optional: headshot -->
-<!-- ![Lorenzo](/assets/img/headshot.jpg) -->
+<!-- Headshot -->
+![Lorenzo](/assets/img/headshot.jpg) 
 
 ---
 
@@ -35,6 +35,7 @@ I'm Lorenzo Harris. I enjoy game programming (C++/SFML, Python/Pygame), systems 
 - **LinkedIn:** [Lorenzo Harris](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 
 > Want to see code, screenshots, and demos? Check out my **[Projects!](/projects/)**.
+
 
 
 
