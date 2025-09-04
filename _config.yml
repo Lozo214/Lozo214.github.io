@@ -1,4 +1,4 @@
-title: "Lorenzo — Portfolio"
+title: "Portfolio"
 description: "Software Developer • University of Arizona"
 theme: minima
 
@@ -8,6 +8,7 @@ theme: minima
 
 minima:
   social_links:
-    - { platform: github,   user_url: "https://github.com/YOUR-USERNAME" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/YOUR-LINKEDIN/" }
+    - { platform: linkedin, user_url: "www.linkedin.com/in/lorenzoharris214" }
+    - { platform: github,   user_url: "https://github.com/Lozo214" }
+
 
