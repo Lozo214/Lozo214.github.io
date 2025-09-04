@@ -18,7 +18,7 @@ title: "Lorenzo's Portfolio"
 
 ## <a id="about"></a>About Me
 
-I'm Lorenzo Harris. I enjoy game programming (C++/SFML, Python/Pygame), systems work, and data structures & algorithms.
+I'm Lorenzo Harris. I enjoy game programming, systems work, and data structures & algorithms.
 
 **Skills:** Java, Python, C/C++, HTML, CSS, JavaScript  
 **Interests:** Game mechanics, compilers, concurrency, web applications
@@ -35,6 +35,7 @@ I'm Lorenzo Harris. I enjoy game programming (C++/SFML, Python/Pygame), systems 
 - **LinkedIn:** [Lorenzo Harris](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 
 > Want to see code, screenshots, and demos? Check out my **[Projects!](/projects/)**.
+
 
 
 
