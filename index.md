@@ -35,5 +35,6 @@ I'm Lorenzo Harris. I enjoy game programming (C++/SFML, Python/Pygame), systems 
 - **GitHub:** [@Lozo214](https://github.com/YOUR-USERNAME)  
 - **LinkedIn:** [Lorenzo Harris](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 
-> Want to see code, screenshots, and demos? CHeck out my **[Projects!](/projects/)**.
+> Want to see code, screenshots, and demos? Check out my **[Projects!](/projects/)**.
+
 
